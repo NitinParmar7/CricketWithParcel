@@ -1,0 +1,220 @@
+{
+	"textures": [
+		{
+			"image": "BatsmanRun.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 179,
+				"h": 412
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "FrontRun2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 88,
+						"h": 128
+					},
+					"anchor": {
+						"x": 0.53409091,
+						"y": 0.46875
+					}
+				},
+				{
+					"filename": "FrontRun4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 87,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 87,
+						"h": 129
+					},
+					"frame": {
+						"x": 91,
+						"y": 1,
+						"w": 87,
+						"h": 129
+					},
+					"anchor": {
+						"x": 0.45977011,
+						"y": 0.46511628
+					}
+				},
+				{
+					"filename": "FrontRun3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 139
+					},
+					"frame": {
+						"x": 1,
+						"y": 131,
+						"w": 72,
+						"h": 139
+					},
+					"anchor": {
+						"x": 0.54166667,
+						"y": 0.43884892
+					}
+				},
+				{
+					"filename": "FronRun1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 139
+					},
+					"frame": {
+						"x": 1,
+						"y": 272,
+						"w": 70,
+						"h": 139
+					},
+					"anchor": {
+						"x": 0.47142857,
+						"y": 0.43884892
+					}
+				},
+				{
+					"filename": "BackRun3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 55,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 55,
+						"h": 118
+					},
+					"frame": {
+						"x": 73,
+						"y": 272,
+						"w": 55,
+						"h": 118
+					},
+					"anchor": {
+						"x": 0.36363636,
+						"y": 0.46610169
+					}
+				},
+				{
+					"filename": "BackRun4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 125
+					},
+					"frame": {
+						"x": 130,
+						"y": 132,
+						"w": 48,
+						"h": 125
+					},
+					"anchor": {
+						"x": 0.5625,
+						"y": 0.424
+					}
+				},
+				{
+					"filename": "BackRun1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 118
+					},
+					"frame": {
+						"x": 75,
+						"y": 132,
+						"w": 52,
+						"h": 118
+					},
+					"anchor": {
+						"x": 0.63461538,
+						"y": 0.45762712
+					}
+				},
+				{
+					"filename": "BackRun2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 126
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 126
+					},
+					"frame": {
+						"x": 130,
+						"y": 259,
+						"w": 47,
+						"h": 126
+					},
+					"anchor": {
+						"x": 0.4893617,
+						"y": 0.43650794
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:71dd4f89a5391469c8760037c3694824:e5c01297e0fb53688ff9d679cbabcbf4:599fe69454b6303e69ccfd604513397b$"
+	}
+}
